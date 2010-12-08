@@ -1,0 +1,91 @@
+County, State, Region, Lat, Lng
+Alameda, CA, Northern California, 37.6016892, -121.7195459
+Alpine, CA, Northern California, 38.736015, -119.766289
+Amador, CA, Northern California, 38.4092417, -120.6660044
+Butte, CA, Northern California, 39.6445906, -121.5543062
+Contra Costa, CA, Northern California, 37.8534093, -121.9017954
+El Dorado, CA, Northern California, 38.7426376, -120.4357631
+Fresno, CA, Central California, 36.9858984, -119.2320784
+Humboldt, CA, Northern California, 40.7450055, -123.8695086
+Imperial, CA, Southern California, 33.0113694, -115.4733554
+Kern, CA, Southern California, 35.4937274, -118.8596804
+Los Angeles, CA, Southern California, 34.3871821, -118.1122679
+Madera, CA, Central California, 37.251926, -119.6962677
+Marin, CA, Northern California, 38.083403, -122.7633036
+Monterey, CA, Central California, 36.3136201, -121.3541631
+Napa, CA, Northern California, 38.5024689, -122.2653887
+Nevada, CA, Northern California, 39.1346666, -121.1710389
+Orange, CA, Southern California, 33.7174708, -117.8311428
+Placer, CA, Northern California, 39.0915751, -120.8039474
+Riverside, CA, Southern California, 33.6825587, -115.4733554
+Sacramento, CA, Northern California, 38.47467, -121.3541631
+San Bernardino, CA, Southern California, 34.9592083, -116.419389
+San Diego, CA, Southern California, 33.0933809, -116.6081653
+San Francisco, CA, Northern California, 37.7618219, -122.5146439
+San Joaquin, CA, Northern California, 37.9175935, -121.1710389
+San Luis Obispo, CA, Central California, 35.3102296, -120.4357631
+San Mateo, CA, Northern California, 37.4337342, -122.4014193
+Santa Barbara, CA, Southern California, 34.6099379, -120.0665236
+Santa Clara, CA, Northern California, 37.2938907, -121.7195459
+Santa Cruz, CA, Northern California, 36.9305075, -121.9017954
+Shasta, CA, Northern California, 40.7908864, -121.8474493
+Solano, CA, Northern California, 38.3104969, -121.9017954
+Sonoma, CA, Northern California, 38.5779555, -122.9888319
+Stanislaus, CA, Northern California, 37.5090711, -120.9876321
+Tulare, CA, Central California, 36.1341739, -118.8596804
+Ventura, CA, Southern California, 34.3704884, -119.1390642
+Adams, CO, Colorado, 39.8398269, -104.1930918
+Arapahoe, CO, Colorado, 39.62031, -104.332644
+Boulder, CO, Colorado, 40.1512114, -105.5005483
+Chaffee, CO, Colorado, 38.7536679, -106.2522143
+Clear Creek, CO, Colorado, 39.6904464, -105.6412527
+Conejos, CO, Colorado, 37.2689711, -106.2522143
+Delta, CO, Colorado, 38.8531357, -107.763621
+Denver, CO, Colorado, 39.7616189, -104.9622498
+Douglas, CO, Colorado, 39.2587106, -104.9388853
+Eagle, CO, Colorado, 39.576406, -106.7234639
+El Paso, CO, Colorado, 38.9108325, -104.4723301
+Fremont, CO, Colorado, 38.5306514, -105.5005483
+Garfield, CO, Colorado, 39.6584775, -107.763621
+Gilpin, CO, Colorado, 39.8770159, -105.4536718
+Gunnison, CO, Colorado, 38.6437083, -107.0067031
+Jefferson, CO, Colorado, 39.5800298, -105.2662931
+La Plata, CO, Colorado, 37.2125857, -107.763621
+Larimer, CO, Colorado, 40.6955572, -105.5943388
+Mesa, CO, Colorado, 38.9585381, -108.6175626
+Moffat, CO, Colorado, 40.6138379, -108.2377519
+Montrose, CO, Colorado, 38.468304, -108.1428669
+Otero, CO, Colorado, 37.9397663, -103.6362715
+Park, CO, Colorado, 39.0897928, -105.5943388
+Pitkin, CO, Colorado, 39.159101, -106.8178377
+Pueblo, CO, Colorado, 38.2528534, -104.4723301
+Routt, CO, Colorado, 40.4771623, -107.1011931
+Saguache, CO, Colorado, 38.0019623, -106.3463791
+San Miguel, CO, Colorado, 37.9781237, -108.1428669
+Summit, CO, Colorado, 39.5911871, -106.0640179
+Weld, CO, Colorado, 40.5265766, -104.4723301
+Monona, IA, Iowa, 42.001594, -95.9832577
+Berrien, MI, Michigan, 42.0320742, -86.7416374
+Cass, MI, Michigan, 41.9299158, -86.0121573
+Eaton, MI, Michigan, 42.5886496, -84.7733325
+Genesee, MI, Michigan, 43.0777289, -83.6773928
+Ingham, MI, Michigan, 42.6468943, -84.3542049
+Isabella, MI, Michigan, 43.598799, -84.8567932
+Jackson, MI, Michigan, 42.1764362, -84.3542049
+Kalamazoo, MI, Michigan, 42.2278346, -85.520024
+Kent, MI, Michigan, 43.0097027, -85.520024
+Macomb, MI, Michigan, 42.7168759, -82.820974
+Montcalm, MI, Michigan, 43.3057341, -85.1894045
+Oakland, MI, Michigan, 42.5921924, -83.336188
+Washtenaw, MI, Michigan, 42.3076493, -83.8473015
+Wayne, MI, Michigan, 42.2790746, -83.336188
+Clark, NV, Nevada, 36.0795613, -115.094045
+Lake, OH, Ohio, 41.981532, -81.2518833
+Douglas, OR, Oregon, 43.1260694, -123.2492364
+Multnomah, OR, Oregon, 45.5145659, -122.5863212
+Washington, OR, Oregon, 45.5469616, -123.1386021
+Hidalgo, TX, Texas, 26.4656319, -98.2212979
+King, WA, Washington, 47.5480339, -121.9836029
+Pierce, WA, Washington, 47.0675877, -122.1295269
+Snohomish, WA, Washington, 48.0329979, -121.8339472
+Spokane, WA, Washington, 47.5909399, -117.2776573
