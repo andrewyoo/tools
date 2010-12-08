@@ -1,0 +1,6 @@
+This app will
+
+1. Pull emails from gmail using pop
+2. Downloads attachments and scp them over somewhere
+
+Run as cron with 'script/runner MailReader.check_mail'
